@@ -1,0 +1,2 @@
+# -d-lbot
+ödül botu
